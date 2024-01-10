@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GamerProf/static/css/main.e86a4430.css",
+    "main.js": "/GamerProf/static/js/main.19ce7ec7.js",
+    "index.html": "/GamerProf/index.html",
+    "main.e86a4430.css.map": "/GamerProf/static/css/main.e86a4430.css.map",
+    "main.19ce7ec7.js.map": "/GamerProf/static/js/main.19ce7ec7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e86a4430.css",
+    "static/js/main.19ce7ec7.js"
+  ]
+}
