@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div>
       <img 
-      src="../img/me.png" 
+      src="./img/me.png" 
       alt="Minha foto" />
 
     </div>
